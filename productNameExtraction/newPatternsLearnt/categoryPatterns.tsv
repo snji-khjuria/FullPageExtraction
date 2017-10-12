@@ -1,0 +1,4 @@
+GroupId	WebsiteName	PatternType	Missed	Junk	Outof	LeftPattern	RightPattern
+1	flipkart	plainPattern	0	0	4	">	</a><svg width="16" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2XP0B
+2	snapdeal	plainPattern	0	0	4	"> <span itemprop="title">	</span> </a> </div> <
+3	amazon	noValuePattern_class	0	0	4	ary> › </span></li> <li><span class=a-list-item> <a class=a-link-normal a-color-tertiary href=""> 	 </a> </span></li> <li class=a-breadcrumb-divider><span class=a-list-item a-color-tertiary> › </sp

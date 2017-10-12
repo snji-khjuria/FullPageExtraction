@@ -1,0 +1,10 @@
+GroupId	WebsiteName	PatternType	Missed	Junk	Outof	LeftPattern	RightPattern
+1	flipkart	noValuePattern	0	0	4	">	</div><svg width="" height="" viewBox="" xmlns="http://www.w3.org/2000/svg" class="_2XP0B_"
+2	snapdeal	noValuePattern	0	0	4	itemprop="" itemscope="" itemtype=""> <link itemprop="" href=""> <div itemprop="" class="disp-none">	</div> <div id="" class="elecPriceTile buyNowBlock row"> <div class="col-xs-21 reset-padding padL8">
+2	snapdeal	noValuePattern	0	0	4	", "productNamePDP": "	", "hardBundlingCss": "https://i1.sdlcdn.com/css/amex1507014675285/snap/components/bundling/hardBund
+2	snapdeal	noValuePattern	0	0	4	 class="tileImg lazy-load" title="" alt=""> </div> <div class="tile-desc"> <p class="product-title">	</p> <p class="product-offer-price"> Rs. 
+2	snapdeal	noValuePattern	0	0	4	pan class="bSlash"> / </span> <div class="containerBreadcrumb"> <span class="active-bread" title="">	</span> </div> </div> <div class="clear"></div> </div> <script type="" id=""> {{each data}} {{if bCr
+2	snapdeal	noValuePattern	0	0	4	r layout"> <div class="row"> <div class="col-xs-22"> <h1 itemprop="" title="" class="pdp-e-i-head"> 	</h1> </div> <div class="col-xs-2"> <div class="shortlist-icon-wrpr comp-animated-icon "> <span clas
+3	amazon	plainPattern	0	0	4	class="sims-fbt-checkbox-label"><span class="sims-fbt-this-item a-text-bold">This item:</span><span>	</span> <span class="a-color-price"><span class="p13n-sc-price"><span style="text-decoration: inheri
+3	amazon	plainPattern	0	0	4	> <h1 id="title" class="a-size-large a-spacing-none"> <span id="productTitle" class="a-size-large"> 	 </span> <span id="titleEDPPlaceHolder"></span> </h1> <div id="expandTitleToggle" class="a-section a
+3	amazon	plainPattern	0	0	4	 class="a-align-center sims-fbt-image-1"><span class="a-list-item"><div class="a-section"><img alt="	" src="page_files/

@@ -1,0 +1,4 @@
+GroupId	WebsiteName	PatternType	Missed	Junk	Outof	LeftPattern	RightPattern
+1	flipkart	plainPattern	0	0	4	">	</li></ul></div></div><div class="
+2	snapdeal	plainPattern	0	0	4	c"> <span class="list-cicrle-cont"><span class="list-circle"></span></span> <span class="h-content">	</span> </li> </ul> </div> </div> <div class="spec-section expanded"> <div class="spec-title-wrp"> <
+3	amazon	plainPattern	0	0	4	 </span></li> <li><span class="a-list-item"> 	 </span></li> </ul> <!-- Loading EDP related metadata --> <span class="edp-feature-declaration" data
